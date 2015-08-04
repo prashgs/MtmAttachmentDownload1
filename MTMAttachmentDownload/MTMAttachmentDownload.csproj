@@ -135,7 +135,6 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MTMAttachmentDownload.exe" />
     <Content Include="Resources\1438642478_Refresh.ico" />
     <None Include="Resources\1438642861_arrow-switch.ico" />
     <None Include="Resources\1438642478_Refresh1.ico" />
